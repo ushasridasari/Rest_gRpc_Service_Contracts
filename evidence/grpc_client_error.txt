@@ -1,0 +1,6 @@
+REQUEST:
+item_id: "banana"
+quantity: 1
+
+STATUS: FAILED_PRECONDITION
+DETAILS: insufficient stock

@@ -1,0 +1,11 @@
+REQUEST:
+item_id: "apple"
+quantity: 2
+
+RESPONSE:
+item_id: "apple"
+requested: 2
+in_stock: 10
+available: true
+
+STATUS: OK
