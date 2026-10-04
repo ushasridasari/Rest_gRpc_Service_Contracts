@@ -1,0 +1,4 @@
+[2026-10-04 13:34:06,293] ERROR in order_service: gRPC call failed: DEADLINE_EXCEEDED - Deadline Exceeded
+127.0.0.1 - - [04/Oct/2026 13:34:06] "POST /orders HTTP/1.1" 504 -
+127.0.0.1 - - [04/Oct/2026 13:41:14] "POST /orders HTTP/1.1" 201 -
+

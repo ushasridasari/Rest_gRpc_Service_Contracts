@@ -1,0 +1,8 @@
+HTTP/1.1 504 GATEWAY TIMEOUT
+Server: Werkzeug/3.1.9 Python/3.12.6
+Date: Sun, 04 Oct 2026 20:34:06 GMT
+Content-Type: application/json
+Content-Length: 88
+Connection: close
+
+{"error":"Deadline Exceeded","grpc_status":"DEADLINE_EXCEEDED","order_status":"failed"}
