@@ -1,0 +1,8 @@
+HTTP/1.1 504 GATEWAY TIMEOUT
+Server: Werkzeug/3.1.9 Python/3.12.6
+Date: Sun, 04 Oct 2026 19:50:45 GMT
+Content-Type: application/json
+Content-Length: 64
+Connection: close
+
+{"error":"inventory service timed out","order_status":"failed"}

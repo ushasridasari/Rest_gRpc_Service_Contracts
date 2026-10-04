@@ -1,0 +1,8 @@
+HTTP/1.1 201 CREATED
+Server: Werkzeug/3.1.9 Python/3.12.6
+Date: Sun, 04 Oct 2026 19:57:01 GMT
+Content-Type: application/json
+Content-Length: 105
+Connection: close
+
+{"inventory":{"available":true,"in_stock":10,"item_id":"apple","requested":2},"order_status":"accepted"}

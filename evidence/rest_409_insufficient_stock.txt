@@ -1,0 +1,8 @@
+HTTP/1.1 409 CONFLICT
+Server: Werkzeug/3.1.9 Python/3.12.6
+Date: Sun, 04 Oct 2026 19:44:03 GMT
+Content-Type: application/json
+Content-Length: 132
+Connection: close
+
+{"order_status":"rejected","reason":{"available":false,"error":"insufficient stock","in_stock":0,"item_id":"banana","requested":1}}
